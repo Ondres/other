@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1029223513091",
+    "project_id": "wheretogo-b4d72",
+    "storage_bucket": "wheretogo-b4d72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029223513091:android:644dffe303ef9871aa6236",
+        "android_client_info": {
+          "package_name": "com.example.my4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029223513091-0lckcqq4vnk06dcesmp2tkass74d2ddt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvwQmVw1OpGsz83B_fIyZhs2UmGOm1iYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029223513091-0lckcqq4vnk06dcesmp2tkass74d2ddt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
